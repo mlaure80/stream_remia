@@ -1,0 +1,10 @@
+altair
+certifi
+streamlit
+Werkzeug               1.0.1
+wheel
+pickle
+pandas
+numpy
+scikit-learn
+fbprophet
